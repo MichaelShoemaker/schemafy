@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="SparkSchemafy",
-    version="0.1.0",
+    version="0.1.3",
     description="Formats spark schema output into a schema definition",
     py_modules=["SparkSchemafy"],
     package_dir={'':'src'},
